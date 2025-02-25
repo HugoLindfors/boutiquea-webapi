@@ -1,0 +1,6 @@
+@Boutiquea_HostAddress = http://localhost:5141
+
+GET {{Boutiquea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
