@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugo\\Projects\\Boutiquea\\Boutiquea.csproj",
+      "projectUniqueName": "C:\\Users\\Hugo\\Projects\\boutiquea-webapi\\Boutiquea.csproj",
       "projectName": "Boutiquea",
-      "projectPath": "C:\\Users\\Hugo\\Projects\\Boutiquea\\Boutiquea.csproj",
+      "projectPath": "C:\\Users\\Hugo\\Projects\\boutiquea-webapi\\Boutiquea.csproj",
       "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hugo\\Projects\\Boutiquea\\obj\\",
+      "outputPath": "C:\\Users\\Hugo\\Projects\\boutiquea-webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config"

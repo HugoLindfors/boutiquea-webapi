@@ -1,6 +1,12 @@
 @Boutiquea_HostAddress = http://localhost:5141
 
-GET {{Boutiquea_HostAddress}}/weatherforecast/
+GET {{Boutiquea_HostAddress}}/api/customers/
+Accept: application/json
+
+GET {{Boutiquea_HostAddress}}/api/orders/
+Accept: application/json
+
+GET {{Boutiquea_HostAddress}}/api/products/
 Accept: application/json
 
 ###
