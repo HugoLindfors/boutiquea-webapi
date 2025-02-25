@@ -21,10 +21,10 @@ List<Customer> customers = [
 ];
 
 List<Product> products = [
-    new(0, "Sibelius Symphony Speakers", 5500),
-    new(1, "Kelo Sauna Wellness Kit", 4200),
-    new(2, "Moominvalley Board Game Collection", 950),
-    new(3, "Arctic Bloom Skincare Line", 450),
+    new(0, "Sibelius Symphony Speakers", 5500, 100),
+    new(1, "Kelo Sauna Wellness Kit", 4200, 50),
+    new(2, "Moominvalley Board Game Collection", 950, 500),
+    new(3, "Arctic Bloom Skincare Line", 450, 800),
 ];
 
 app.MapGet("/api/customers", () =>
