@@ -25,7 +25,7 @@ namespace Boutiquea.Data
             new(17, "Sofia Russo"),
             new(18, "Mateo Ferrari"),
             new(19, "Giulia Romano"),
-            new(20, "Hugo Dubois"),
+            new(20, "Hugo Lindfors"),
             new(21, "Lea Laurent"),
             new(22, "Antoine Moreau"),
             new(23, "Camille Petit"),
@@ -38,6 +38,8 @@ namespace Boutiquea.Data
             new(30, "Eric Cartman"),
             new(31, "Leon Weber"),
             new(32, "Lars Olsen"),
+            new(33, "Ivo Robotnik"),
+            new(33, "Stefan Löfven"),
             new(33, "Ingrid Hansen"),
         ];
     }
